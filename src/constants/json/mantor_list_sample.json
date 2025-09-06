@@ -1,0 +1,188 @@
+[
+  [
+    {
+      "id": 1,
+      "name": "김몽실",
+      "school": "동국대",
+      "major": "국어국문학과",
+      "rating": 5.0,
+      "reviewCount": 7,
+      "students": 12,
+      "admissionType": "논술",
+      "hashTag": "#논술#동국대#경희대#서울권",
+      "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTA1MjdfMjkw%2FMDAxNzQ4MzMwMDEyNTEy.-kqzKDk5OwctPiwU_skAFvb3HrNb6HP7V__sz-xYeMsg.t56LMKZxvq4jiwwyXLE2v-kDa3vu34B0ZvHYtuT38qUg.PNG%2F%25C1%25A6%25B8%25F1%25C0%25BB_%25C0%25D4%25B7%25C2%25C7%25D8%25C1%25D6%25BC%25BC%25BF%25E4_-006_%25284%2529.png&type=sc960_832"
+    },
+    {
+      "id": 2,
+      "name": "이하늘",
+      "school": "서울대",
+      "major": "컴퓨터공학과",
+      "rating": 4.8,
+      "reviewCount": 10,
+      "students": 15,
+      "admissionType": "논술",
+      "hashTag": "#논술#동국대#경희대#서울권",
+      "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTA1MjdfMjkw%2FMDAxNzQ4MzMwMDEyNTEy.-kqzKDk5OwctPiwU_skAFvb3HrNb6HP7V__sz-xYeMsg.t56LMKZxvq4jiwwyXLE2v-kDa3vu34B0ZvHYtuT38qUg.PNG%2F%25C1%25A6%25B8%25F1%25C0%25BB_%25C0%25D4%25B7%25C2%25C7%25D8%25C1%25D6%25BC%25BC%25BF%25E4_-006_%25284%2529.png&type=sc960_832"
+    },
+    {
+      "id": 3,
+      "name": "박서준",
+      "school": "한양대",
+      "major": "화학과",
+      "rating": 4.9,
+      "reviewCount": 12,
+      "students": 18,
+      "admissionType": "논술",
+      "hashTag": "#논술#동국대#경희대#서울권",
+      "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTA1MjdfMjkw%2FMDAxNzQ4MzMwMDEyNTEy.-kqzKDk5OwctPiwU_skAFvb3HrNb6HP7V__sz-xYeMsg.t56LMKZxvq4jiwwyXLE2v-kDa3vu34B0ZvHYtuT38qUg.PNG%2F%25C1%25A6%25B8%25F1%25C0%25BB_%25C0%25D4%25B7%25C2%25C7%25D8%25C1%25D6%25BC%25BC%25BF%25E4_-006_%25284%2529.png&type=sc960_832"
+    },
+    {
+      "id": 4,
+      "name": "조민지",
+      "school": "이화여대",
+      "major": "미술학과",
+      "rating": 4.6,
+      "reviewCount": 9,
+      "students": 14,
+      "admissionType": "논술",
+      "hashTag": "#논술#동국대#경희대#서울권",
+      "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTA1MjdfMjkw%2FMDAxNzQ4MzMwMDEyNTEy.-kqzKDk5OwctPiwU_skAFvb3HrNb6HP7V__sz-xYeMsg.t56LMKZxvq4jiwwyXLE2v-kDa3vu34B0ZvHYtuT38qUg.PNG%2F%25C1%25A6%25B8%25F1%25C0%25BB_%25C0%25D4%25B7%25C2%25C7%25D8%25C1%25D6%25BC%25BC%25BF%25E4_-006_%25284%2529.png&type=sc960_832"
+    },
+    {
+      "id": 5,
+      "name": "강하윤",
+      "school": "한국외대",
+      "major": "국제학과",
+      "rating": 4.5,
+      "reviewCount": 8,
+      "students": 13,
+      "admissionType": "논술",
+      "hashTag": "#논술#동국대#경희대#서울권",
+      "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTA1MjdfMjkw%2FMDAxNzQ4MzMwMDEyNTEy.-kqzKDk5OwctPiwU_skAFvb3HrNb6HP7V__sz-xYeMsg.t56LMKZxvq4jiwwyXLE2v-kDa3vu34B0ZvHYtuT38qUg.PNG%2F%25C1%25A6%25B8%25F1%25C0%25BB_%25C0%25D4%25B7%25C2%25C7%25D8%25C1%25D6%25BC%25BC%25BF%25E4_-006_%25284%2529.png&type=sc960_832"
+    }
+  ],
+  [
+    {
+      "id": 6,
+      "name": "윤서현",
+      "school": "서울대",
+      "major": "컴퓨터공학과",
+      "rating": 4.8,
+      "reviewCount": 11,
+      "students": 16,
+      "admissionType": "논술",
+      "hashTag": "#논술#동국대#경희대#서울권",
+      "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTA1MjdfMjkw%2FMDAxNzQ4MzMwMDEyNTEy.-kqzKDk5OwctPiwU_skAFvb3HrNb6HP7V__sz-xYeMsg.t56LMKZxvq4jiwwyXLE2v-kDa3vu34B0ZvHYtuT38qUg.PNG%2F%25C1%25A6%25B8%25F1%25C0%25BB_%25C0%25D4%25B7%25C2%25C7%25D8%25C1%25D6%25BC%25BC%25BF%25E4_-006_%25284%2529.png&type=sc960_832"
+    },
+    {
+      "id": 7,
+      "name": "이하은",
+      "school": "고려대",
+      "major": "심리학과",
+      "rating": 4.7,
+      "reviewCount": 9,
+      "students": 14,
+      "admissionType": "논술",
+      "hashTag": "#논술#동국대#경희대#서울권",
+      "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTA1MjdfMjkw%2FMDAxNzQ4MzMwMDEyNTEy.-kqzKDk5OwctPiwU_skAFvb3HrNb6HP7V__sz-xYeMsg.t56LMKZxvq4jiwwyXLE2v-kDa3vu34B0ZvHYtuT38qUg.PNG%2F%25C1%25A6%25B8%25F1%25C0%25BB_%25C0%25D4%25B7%25C2%25C7%25D8%25C1%25D6%25BC%25BC%25BF%25E4_-006_%25284%2529.png&type=sc960_832"
+    },
+    {
+      "id": 8,
+      "name": "송지민",
+      "school": "연세대",
+      "major": "경영학과",
+      "rating": 4.6,
+      "reviewCount": 10,
+      "students": 15,
+      "admissionType": "논술",
+      "hashTag": "#논술#동국대#경희대#서울권",
+      "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTA1MjdfMjkw%2FMDAxNzQ4MzMwMDEyNTEy.-kqzKDk5OwctPiwU_skAFvb3HrNb6HP7V__sz-xYeMsg.t56LMKZxvq4jiwwyXLE2v-kDa3vu34B0ZvHYtuT38qUg.PNG%2F%25C1%25A6%25B8%25F1%25C0%25BB_%25C0%25D4%25B7%25C2%25C7%25D8%25C1%25D6%25BC%25BC%25BF%25E4_-006_%25284%2529.png&type=sc960_832"
+    },
+    {
+      "id": 9,
+      "name": "박채원",
+      "school": "한양대",
+      "major": "전자공학과",
+      "rating": 4.9,
+      "reviewCount": 13,
+      "students": 17,
+      "admissionType": "논술",
+      "hashTag": "#논술#동국대#경희대#서울권",
+      "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTA1MjdfMjkw%2FMDAxNzQ4MzMwMDEyNTEy.-kqzKDk5OwctPiwU_skAFvb3HrNb6HP7V__sz-xYeMsg.t56LMKZxvq4jiwwyXLE2v-kDa3vu34B0ZvHYtuT38qUg.PNG%2F%25C1%25A6%25B8%25F1%25C0%25BB_%25C0%25D4%25B7%25C2%25C7%25D8%25C1%25D6%25BC%25BC%25BF%25E4_-006_%25284%2529.png&type=sc960_832"
+    },
+    {
+      "id": 10,
+      "name": "정다은",
+      "school": "서울여대",
+      "major": "음악학과",
+      "rating": 4.5,
+      "reviewCount": 7,
+      "students": 12,
+      "admissionType": "논술",
+      "hashTag": "#논술#동국대#경희대#서울권",
+      "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTA1MjdfMjkw%2FMDAxNzQ4MzMwMDEyNTEy.-kqzKDk5OwctPiwU_skAFvb3HrNb6HP7V__sz-xYeMsg.t56LMKZxvq4jiwwyXLE2v-kDa3vu34B0ZvHYtuT38qUg.PNG%2F%25C1%25A6%25B8%25F1%25C0%25BB_%25C0%25D4%25B7%25C2%25C7%25D8%25C1%25D6%25BC%25BC%25BF%25E4_-006_%25284%2529.png&type=sc960_832"
+    }
+  ],
+  [
+    {
+      "id": 11,
+      "name": "김몽실",
+      "school": "동국대",
+      "major": "국어국문학과",
+      "rating": 5.0,
+      "reviewCount": 7,
+      "students": 12,
+      "admissionType": "논술",
+      "hashTag": "#논술#동국대#경희대#서울권",
+      "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTA1MjdfMjkw%2FMDAxNzQ4MzMwMDEyNTEy.-kqzKDk5OwctPiwU_skAFvb3HrNb6HP7V__sz-xYeMsg.t56LMKZxvq4jiwwyXLE2v-kDa3vu34B0ZvHYtuT38qUg.PNG%2F%25C1%25A6%25B8%25F1%25C0%25BB_%25C0%25D4%25B7%25C2%25C7%25D8%25C1%25D6%25BC%25BC%25BF%25E4_-006_%25284%2529.png&type=sc960_832"
+    },
+    {
+      "id": 12,
+      "name": "이하늘",
+      "school": "서울대",
+      "major": "컴퓨터공학과",
+      "rating": 4.8,
+      "reviewCount": 10,
+      "students": 15,
+      "admissionType": "논술",
+      "hashTag": "#논술#동국대#경희대#서울권",
+      "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTA1MjdfMjkw%2FMDAxNzQ4MzMwMDEyNTEy.-kqzKDk5OwctPiwU_skAFvb3HrNb6HP7V__sz-xYeMsg.t56LMKZxvq4jiwwyXLE2v-kDa3vu34B0ZvHYtuT38qUg.PNG%2F%25C1%25A6%25B8%25F1%25C0%25BB_%25C0%25D4%25B7%25C2%25C7%25D8%25C1%25D6%25BC%25BC%25BF%25E4_-006_%25284%2529.png&type=sc960_832"
+    },
+    {
+      "id": 13,
+      "name": "박서준",
+      "school": "한양대",
+      "major": "화학과",
+      "rating": 4.9,
+      "reviewCount": 12,
+      "students": 18,
+      "admissionType": "논술",
+      "hashTag": "#논술#동국대#경희대#서울권",
+      "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTA1MjdfMjkw%2FMDAxNzQ4MzMwMDEyNTEy.-kqzKDk5OwctPiwU_skAFvb3HrNb6HP7V__sz-xYeMsg.t56LMKZxvq4jiwwyXLE2v-kDa3vu34B0ZvHYtuT38qUg.PNG%2F%25C1%25A6%25B8%25F1%25C0%25BB_%25C0%25D4%25B7%25C2%25C7%25D8%25C1%25D6%25BC%25BC%25BF%25E4_-006_%25284%2529.png&type=sc960_832"
+    },
+    {
+      "id": 14,
+      "name": "조민지",
+      "school": "이화여대",
+      "major": "미술학과",
+      "rating": 4.6,
+      "reviewCount": 9,
+      "students": 14,
+      "admissionType": "논술",
+      "hashTag": "#논술#동국대#경희대#서울권",
+      "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTA1MjdfMjkw%2FMDAxNzQ4MzMwMDEyNTEy.-kqzKDk5OwctPiwU_skAFvb3HrNb6HP7V__sz-xYeMsg.t56LMKZxvq4jiwwyXLE2v-kDa3vu34B0ZvHYtuT38qUg.PNG%2F%25C1%25A6%25B8%25F1%25C0%25BB_%25C0%25D4%25B7%25C2%25C7%25D8%25C1%25D6%25BC%25BC%25BF%25E4_-006_%25284%2529.png&type=sc960_832"
+    },
+    {
+      "id": 15,
+      "name": "강하윤",
+      "school": "한국외대",
+      "major": "국제학과",
+      "rating": 4.5,
+      "reviewCount": 8,
+      "students": 13,
+      "admissionType": "논술",
+      "hashTag": "#논술#동국대#경희대#서울권",
+      "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTA1MjdfMjkw%2FMDAxNzQ4MzMwMDEyNTEy.-kqzKDk5OwctPiwU_skAFvb3HrNb6HP7V__sz-xYeMsg.t56LMKZxvq4jiwwyXLE2v-kDa3vu34B0ZvHYtuT38qUg.PNG%2F%25C1%25A6%25B8%25F1%25C0%25BB_%25C0%25D4%25B7%25C2%25C7%25D8%25C1%25D6%25BC%25BC%25BF%25E4_-006_%25284%2529.png&type=sc960_832"
+    }
+  ]
+]
