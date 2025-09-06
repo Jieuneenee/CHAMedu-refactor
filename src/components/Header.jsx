@@ -14,7 +14,7 @@ const Header = () => {
     <HeaderContainer>
       <Logo as={Link} to="/">
         <LogoImage src={LogoIcon} alt="Logo" />
-        <Title>CHAMede</Title>
+        <Title>CHAMedu</Title>
       </Logo>
 
       <Menu>
